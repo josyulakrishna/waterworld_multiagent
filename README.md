@@ -6,7 +6,7 @@ Some key features:
 - Agent not overlapping in their sensor range
 
 ## Preview of Environment
-![preview](lib/preview.gif)
+![preview](img/preview.gif)
 
 
 # REINFORCEjs
